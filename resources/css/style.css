@@ -11,3 +11,15 @@ body {
 .header p {
   font-size: 18px;
 }
+#process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+#process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#process {
+  font-size: 14px;
+}

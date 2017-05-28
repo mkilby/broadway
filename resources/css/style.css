@@ -11,15 +11,20 @@ body {
 .header p {
   font-size: 18px;
 }
-#process h2 {
+h2 {
   font-size: 32px;
   font-weight: bold;
 }
-#process h3 {
+h3 {
   font-size: 23px;
   font-weight: bold;
 }
 
-#process {
+p {
   font-size: 14px;
+}
+
+#designed_in_nyc {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
 }
